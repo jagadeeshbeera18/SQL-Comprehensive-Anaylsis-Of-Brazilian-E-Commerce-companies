@@ -1,0 +1,49 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 1000163,
+    "total_columns": 5,
+    "missing_values": {
+        "geolocation_zip_code_prefix": 0,
+        "geolocation_lat": 0,
+        "geolocation_lng": 0,
+        "geolocation_city": 0,
+        "geolocation_state": 0
+    },
+    "duplicate_full_rows": 261831,
+    "blank_values": {
+        "geolocation_city": 0,
+        "geolocation_state": 0
+    },
+    "invalid_zip_codes": 245733,
+    "invalid_lat": 0,
+    "invalid_lng": 0,
+    "state_distribution": {
+        "SP": 404268,
+        "MG": 126336,
+        "RJ": 121169,
+        "RS": 61851,
+        "PR": 57859,
+        "SC": 38328,
+        "BA": 36045,
+        "GO": 20139,
+        "ES": 16748,
+        "PE": 16432,
+        "DF": 12986,
+        "MT": 12031,
+        "CE": 11674,
+        "PA": 10853,
+        "MS": 10431,
+        "MA": 7853,
+        "PB": 5538,
+        "RN": 5041,
+        "PI": 4549,
+        "AL": 4183,
+        "TO": 3576,
+        "SE": 3563,
+        "RO": 3478,
+        "AM": 2432,
+        "AC": 1301,
+        "AP": 853,
+        "RR": 646
+    }
+}

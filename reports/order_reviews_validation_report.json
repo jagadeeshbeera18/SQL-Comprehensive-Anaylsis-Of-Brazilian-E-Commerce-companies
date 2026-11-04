@@ -1,0 +1,29 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 99224,
+    "total_columns": 7,
+    "missing_values": {
+        "review_id": 0,
+        "order_id": 0,
+        "review_score": 0,
+        "review_comment_title": 87656,
+        "review_comment_message": 58247,
+        "review_creation_date": 0,
+        "review_answer_timestamp": 0
+    },
+    "duplicate_order_ids": 814,
+    "duplicate_full_rows": 0,
+    "blank_values": {
+        "review_id": 0,
+        "order_id": 0
+    },
+    "invalid_review_score": 0,
+    "invalid_date_order": 0,
+    "score_distribution": {
+        "1": 11424,
+        "2": 3151,
+        "3": 8179,
+        "4": 19142,
+        "5": 57328
+    }
+}

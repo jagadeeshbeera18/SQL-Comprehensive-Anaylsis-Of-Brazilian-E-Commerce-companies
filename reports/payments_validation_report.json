@@ -1,0 +1,28 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 103886,
+    "total_columns": 5,
+    "missing_values": {
+        "order_id": 0,
+        "payment_sequential": 0,
+        "payment_type": 0,
+        "payment_installments": 0,
+        "payment_value": 0
+    },
+    "duplicate_payment_ids": 0,
+    "duplicate_full_rows": 0,
+    "blank_payment_values": {
+        "order_id": 0,
+        "payment_type": 0
+    },
+    "invalid_payment_values": 0,
+    "invalid_payment_installments": 2,
+    "invalid_payment_sequence": 0,
+    "payment_type_dis": {
+        "credit_card": 76795,
+        "boleto": 19784,
+        "voucher": 5775,
+        "debit_card": 1529,
+        "not_defined": 3
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "olist_products_dataset.csv",
+    "original_rows": 32951,
+    "final_rows": 32951,
+    "rows_removed": 0,
+    "products_missing_all_catalog_attributes": 610,
+    "duplicate_product_ids": 0,
+    "missing_product_ids": 0,
+    "negative_measurement_counts": {
+        "product_weight_g": 0,
+        "product_length_cm": 0,
+        "product_height_cm": 0,
+        "product_width_cm": 0
+    },
+    "missing_values_after_processing": {
+        "product_category_name": 610,
+        "product_name_lenght": 610,
+        "product_description_lenght": 610,
+        "product_photos_qty": 610,
+        "product_weight_g": 2,
+        "product_length_cm": 2,
+        "product_height_cm": 2,
+        "product_width_cm": 2
+    }
+}

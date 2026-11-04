@@ -1,0 +1,13 @@
+{
+    "dataset": "sellers",
+    "original_rows": 3095,
+    "processed_rows": 3095,
+    "duplicate_seller_ids": 0,
+    "invalid_zip_prefixes": 0,
+    "missing_values": {
+        "seller_id": 0,
+        "seller_zip_code_prefix": 0,
+        "seller_city": 0,
+        "seller_state": 0
+    }
+}

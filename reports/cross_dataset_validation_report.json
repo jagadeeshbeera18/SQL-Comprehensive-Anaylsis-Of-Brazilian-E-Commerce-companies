@@ -1,0 +1,35 @@
+{
+    "relationships_checked": 5,
+    "relationship_results": [
+        {
+            "relationship": "Orders -> Customers",
+            "child_records_checked": 99441,
+            "unmatched_records": 0
+        },
+        {
+            "relationship": "Order Items -> Orders",
+            "child_records_checked": 112650,
+            "unmatched_records": 0
+        },
+        {
+            "relationship": "Order Items -> Products",
+            "child_records_checked": 112650,
+            "unmatched_records": 0
+        },
+        {
+            "relationship": "Order Items -> Sellers",
+            "child_records_checked": 112650,
+            "unmatched_records": 0
+        },
+        {
+            "relationship": "Products -> Category Translation",
+            "child_records_checked": 32341,
+            "unmatched_records": 13
+        }
+    ],
+    "order_coverage": {
+        "total_orders": 99441,
+        "orders_with_items": 98666,
+        "orders_without_items": 775
+    }
+}

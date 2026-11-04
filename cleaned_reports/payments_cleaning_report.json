@@ -1,0 +1,23 @@
+{
+    "dataset": "payments",
+    "original_rows": 103886,
+    "processed_rows": 103886,
+    "zero_payment_values": 9,
+    "negative_payment_values": 0,
+    "invalid_installments": 2,
+    "duplicate_payment_records": 0,
+    "missing_values": {
+        "order_id": 0,
+        "payment_sequential": 0,
+        "payment_type": 0,
+        "payment_installments": 0,
+        "payment_value": 0
+    },
+    "payment_type_distribution": {
+        "credit_card": 76795,
+        "boleto": 19784,
+        "voucher": 5775,
+        "debit_card": 1529,
+        "not_defined": 3
+    }
+}

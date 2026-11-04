@@ -1,0 +1,20 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 99441,
+    "total_columns": 8,
+    "missing_values": {
+        "order_id": 0,
+        "customer_id": 0,
+        "order_status": 0,
+        "order_purchase_timestamp": 0,
+        "order_approved_at": 160,
+        "order_delivered_carrier_date": 1783,
+        "order_delivered_customer_date": 2965,
+        "order_estimated_delivery_date": 0
+    },
+    "duplicate_order_ids": 0,
+    "duplicate_full_rows": 0,
+    "blank_order_ids": 0,
+    "delivered_before_purchase": 0,
+    "estimated_delivery_before_purchase": 0
+}

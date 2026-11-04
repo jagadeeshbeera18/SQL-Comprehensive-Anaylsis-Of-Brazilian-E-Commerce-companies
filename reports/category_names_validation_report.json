@@ -1,0 +1,16 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 71,
+    "total_columns": 2,
+    "missing_values": {
+        "product_category_name": 0,
+        "product_category_name_english": 0
+    },
+    "duplicate_categories": 0,
+    "duplicate_categories_eng": 0,
+    "duplicate_full_rows": 0,
+    "blank_values": {
+        "product_category_name": 0,
+        "product_category_name_english": 0
+    }
+}

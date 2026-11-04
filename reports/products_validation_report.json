@@ -1,0 +1,48 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 32951,
+    "total_columns": 9,
+    "missing_values": {
+        "product_id": 0,
+        "product_category_name": 610,
+        "product_name_lenght": 610,
+        "product_description_lenght": 610,
+        "product_photos_qty": 610,
+        "product_weight_g": 2,
+        "product_length_cm": 2,
+        "product_height_cm": 2,
+        "product_width_cm": 2
+    },
+    "duplicate_order_ids": 0,
+    "duplicate_full_rows": 0,
+    "blank_order_ids": 0,
+    "invalid_numeric_values": {
+        "product_name_lenght": 0,
+        "product_description_lenght": 0,
+        "product_photos_qty": 0,
+        "product_weight_g": 0,
+        "product_length_cm": 0,
+        "product_height_cm": 0,
+        "product_width_cm": 0
+    },
+    "negative_measurements": {
+        "product_description_lenght": 0,
+        "product_photos_qty": 0,
+        "product_weight_g": 0,
+        "product_length_cm": 0,
+        "product_height_cm": 0,
+        "product_width_cm": 0
+    },
+    "top_10_categories": {
+        "cama_mesa_banho": 3029,
+        "esporte_lazer": 2867,
+        "moveis_decoracao": 2657,
+        "beleza_saude": 2444,
+        "utilidades_domesticas": 2335,
+        "automotivo": 1900,
+        "informatica_acessorios": 1639,
+        "brinquedos": 1411,
+        "relogios_presentes": 1329,
+        "telefonia": 1134
+    }
+}

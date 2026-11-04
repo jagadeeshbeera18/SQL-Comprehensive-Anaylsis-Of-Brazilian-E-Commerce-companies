@@ -1,0 +1,17 @@
+{
+    "dataset": "geolocation",
+    "original_rows": 1000163,
+    "processed_rows": 1000163,
+    "duplicate_rows": 261831,
+    "unique_zip_prefixes": 19015,
+    "invalid_zip_prefixes": 0,
+    "invalid_latitudes": 0,
+    "invalid_longitudes": 0,
+    "missing_values": {
+        "geolocation_zip_code_prefix": 0,
+        "geolocation_lat": 0,
+        "geolocation_lng": 0,
+        "geolocation_city": 0,
+        "geolocation_state": 0
+    }
+}

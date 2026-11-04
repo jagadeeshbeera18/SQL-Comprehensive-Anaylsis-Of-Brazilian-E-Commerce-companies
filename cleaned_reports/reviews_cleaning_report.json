@@ -1,0 +1,24 @@
+{
+    "dataset": "reviews",
+    "original_rows": 99224,
+    "processed_rows": 99224,
+    "invalid_review_scores": 0,
+    "duplicate_review_ids": 814,
+    "duplicate_review_order_combinations": 0,
+    "missing_values": {
+        "review_id": 0,
+        "order_id": 0,
+        "review_score": 0,
+        "review_comment_title": 87658,
+        "review_comment_message": 58274,
+        "review_creation_date": 0,
+        "review_answer_timestamp": 0
+    },
+    "review_score_distribution": {
+        "5": 57328,
+        "4": 19142,
+        "1": 11424,
+        "3": 8179,
+        "2": 3151
+    }
+}

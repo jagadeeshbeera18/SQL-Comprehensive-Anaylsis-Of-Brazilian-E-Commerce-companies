@@ -1,0 +1,10 @@
+dataset,total_rows,total_columns,total_missing_values,duplicate_complete_rows,duplicate_percentage,missing_required_columns
+orders.csv,99441,8,4908,0,0.0,0
+products.csv,32951,9,2448,0,0.0,0
+customers.csv,99441,5,0,0,0.0,0
+order_items.csv,112650,7,0,0,0.0,0
+payments.csv,103886,5,0,0,0.0,0
+sellers.csv,3095,4,0,0,0.0,0
+order_reviews.csv,99224,7,145903,0,0.0,0
+order_geolocation.csv,1000163,5,0,0,0.0,0
+category_names.csv,71,2,0,0,0.0,0

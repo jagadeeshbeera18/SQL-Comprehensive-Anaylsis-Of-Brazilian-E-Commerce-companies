@@ -1,0 +1,17 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 99441,
+    "total_columns": 5,
+    "missing_values": {
+        "customer_id": 0,
+        "customer_unique_id": 0,
+        "customer_zip_code_prefix": 0,
+        "customer_city": 0,
+        "customer_state": 0
+    },
+    "duplicate_order_ids": 0,
+    "duplicate_full_rows": 0,
+    "blank_order_ids": 0,
+    "invalid_state_codes": 0,
+    "invalid_zip_codes": 23995
+}

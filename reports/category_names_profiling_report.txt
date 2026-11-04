@@ -1,0 +1,26 @@
+PRODUCT CATEGORY NAMES PROFILING REPORT
+==================================================
+
+Total rows: 71
+Total columns: 2
+Duplicate complete rows: 0
+
+MISSING VALUES
+                               missing_count  missing_percentage
+product_category_name                      0                 0.0
+product_category_name_english              0                 0.0
+
+DUPLICATE CATEGORY COUNTS
+Duplicate Portuguese names: 0
+Duplicate English labels: 0
+
+
+DUPLICATE PORTUGUESE MAPPINGS
+Empty DataFrame
+Columns: [product_category_name, product_category_name_english]
+Index: []
+
+DUPLICATE ENGLISH LABELS
+Empty DataFrame
+Columns: [product_category_name, product_category_name_english]
+Index: []

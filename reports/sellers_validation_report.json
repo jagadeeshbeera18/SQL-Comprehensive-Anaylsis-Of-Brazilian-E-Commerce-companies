@@ -1,0 +1,21 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 3095,
+    "total_columns": 4,
+    "missing_values": {
+        "seller_id": 0,
+        "seller_zip_code_prefix": 0,
+        "seller_city": 0,
+        "seller_state": 0
+    },
+    "duplicate_seller_ids": 0,
+    "duplicate_full_rows": 0,
+    "blank_seller_keys": {
+        "seller_id": 0,
+        "seller_zip_code_prefix": 0,
+        "seller_city": 0,
+        "seller_state": 0
+    },
+    "invalid_zip_codes": 0,
+    "invalid_states": 0
+}

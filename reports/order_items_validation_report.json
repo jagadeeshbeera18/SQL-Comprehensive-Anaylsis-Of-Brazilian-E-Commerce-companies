@@ -1,0 +1,27 @@
+{
+    "dataset": "olist_orders_dataset.csv",
+    "total_rows": 112650,
+    "total_columns": 7,
+    "missing_values": {
+        "order_id": 0,
+        "order_item_id": 0,
+        "product_id": 0,
+        "seller_id": 0,
+        "shipping_limit_date": 0,
+        "price": 0,
+        "freight_value": 0
+    },
+    "duplicate_order_items": 0,
+    "duplicate_full_rows": 0,
+    "blank_order_items_ids": {
+        "order_id": 0,
+        "product_id": 0,
+        "seller_id": 0
+    },
+    "invalid_prices": 0,
+    "invalid_freight_values": 0,
+    "invalid_shipping_dates": 0,
+    "missing_order_ids": 0,
+    "missing_product_ids": 0,
+    "missing_seller_ids": 0
+}
