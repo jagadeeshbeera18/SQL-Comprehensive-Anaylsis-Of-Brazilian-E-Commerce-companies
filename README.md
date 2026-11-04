@@ -1,5 +1,4 @@
-OLIST E-COMMERCE ANALYTICS PROJECT
-
+OLIST E-COMMERCE ANALYTICS PROJECT.      
 Data Profiling  >  Validation  >  Cleaning  >  PostgreSQL Database  >  Business Analysis
 ================================================================================
 
